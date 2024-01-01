@@ -1,0 +1,21 @@
+---
+layout: post
+title:  "New Year's Post: 2024 (and a welcome to my blog!)"
+date:   2024-01-01 16:39:46 +0800
+categories: personal update
+---
+New Year is upon us once again. Fireworks were lit all around the world in celebration of the successful year that just passed while welcoming a new one, hoping that this year would be a lot better than the one that just ended. Even though technically it should be just any other new day, I still understand what it feels to turn a new page of our life and have a sense of starting out once again. Probably this is why "New Year Resolutions" are what they are as people are inspired to change the way they they're living or try new things after a very eventful year. There is really no definite "new chapter" in life as we are the one who dictates what life chapter of ours starts when or how. 
+
+As for myself, I'd say the last year has been pretty eventful as well. This year, I've graduated from university and got my college degree. I've been steadily improving my skills in web and application development by creating personal projects and learning from online courses over the internet. Although I am still not a working professional at the time of writing this post, I work on small development commissions from time to time. However, I am very hopeful that I'd finally get a full-time job this year.
+
+There are still many things I want to accomplish this coming year, as well as try new things. I want to share my own thoughts or skills about things I care about. I always loved teaching and sharing my insights about many things, and writing is probably the best option for me right now. I am more comfortable writing my thoughts out over any other medium, and it's perfectly fine.
+
+This blog has still a long way to go. I'm planning to create my own theme to replace the default theme that Jekyll had provided, set up post tags, build a better index page, and more. But for now, I just went immediately to writing because I felt like I want to and I don't want to miss this spontaneous spark of determination to do things go away without me doing anything about it. 
+
+Starting a new project on a Monday, on the very first day of the year just feels good for some reason. 
+
+Or perhaps the thing that I described earlier about having a feeling of wanting to start out a new page and "New Year Resolutions" has finally gotten into me.
+
+Anyways, thank you very much for taking your time in reading this post. I wish you the best day ahead, and cheers.
+
+Expect updates every month as I'd be writing essays from now on and publish them all here. I'd also share some programming tips from time to time if ever I encountered a problem that has no definite posted solution yet or if I think my solution is better than what is out there.
